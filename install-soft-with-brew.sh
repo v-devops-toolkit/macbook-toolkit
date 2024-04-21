@@ -39,6 +39,7 @@ brew install npm
 brew install yarn
 # https://github.com/nvm-sh/nvm
 brew install nvm
+brew install typescript
 
 
 ## PYTHON
