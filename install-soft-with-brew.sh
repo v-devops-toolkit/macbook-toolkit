@@ -15,7 +15,8 @@ brew install telnet
 # replacement for unrar
 brew install unar
 
-
+### GO
+brew install go
 
 ### GIT
 # cli tools for git / github
