@@ -70,6 +70,7 @@ brew install certbot
 brew install terraform
 brew install terragrunt
 brew install opentofu
+brew install tflint
 
 
 ## DOCKER
