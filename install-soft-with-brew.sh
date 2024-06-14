@@ -105,6 +105,8 @@ brew link --force libpq
 brew install gcc
 brew install liquibase
 
+# sql client
+brew install --cask dbeaver-community
 
 
 ## REDIS
